@@ -3,7 +3,7 @@ A simple demo to show the very basic usage of Android FileProvider for beginners
 
 An apk provides a file in its internal storage to another apk to show to the user.
 
-== How to run
+## How to run
 
 Install both File Provider and File Receiver.
 
